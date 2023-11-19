@@ -1,3 +1,4 @@
+### Note: I haven't created frontend for the service yet; need to build a basic interactive form
 ### Spring For Kafka Basic Example
 
 This repository includes basic implementation and usage of Kafka in Spring Boot.
