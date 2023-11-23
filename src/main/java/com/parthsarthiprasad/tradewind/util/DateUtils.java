@@ -1,4 +1,4 @@
-package com.parthsarthiprasad.LogInjectorDyte.util;
+package com.parthsarthiprasad.tradewind.util;
 
 import java.time.LocalDate;
 import java.time.ZoneId;

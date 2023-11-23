@@ -1,4 +1,4 @@
-package com.parthsarthiprasad.LogInjectorDyte.service.lucene;
+package com.parthsarthiprasad.tradewind.service.lucene;
 
 import org.apache.lucene.store.ByteBuffersDirectory;
 import org.apache.lucene.store.Directory;
@@ -7,7 +7,7 @@ import org.jboss.weld.environment.se.WeldContainer;
 
 import java.io.IOException;
 import java.time.LocalDate;
-import com.parthsarthiprasad.LogInjectorDyte.model.LogList;
+import com.parthsarthiprasad.tradewind.model.LogList;
 
 public class LuceneService {
 

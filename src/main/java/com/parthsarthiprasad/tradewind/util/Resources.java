@@ -1,4 +1,4 @@
-package com.parthsarthiprasad.LogInjectorDyte.util;
+package com.parthsarthiprasad.tradewind.util;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,15 +1,12 @@
-package com.parthsarthiprasad.LogInjectorDyte.service;
+package com.parthsarthiprasad.tradewind.service;
 
-import com.parthsarthiprasad.LogInjectorDyte.model.KafkaMessage;
-import com.parthsarthiprasad.LogInjectorDyte.model.LogList;
+import com.parthsarthiprasad.tradewind.model.LogList;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.stereotype.Service;
-import com.parthsarthiprasad.LogInjectorDyte.service.lucene.LuceneIndexer;
 
 import org.apache.lucene.document.*;
-import org.apache.lucene.index.IndexWriter;
 
 import java.util.ArrayList;
 

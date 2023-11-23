@@ -1,4 +1,4 @@
-package com.parthsarthiprasad.LogInjectorDyte.model;
+package com.parthsarthiprasad.tradewind.model;
 
 public class Metadata {
     private String parentResourceId;

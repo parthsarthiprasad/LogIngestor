@@ -1,6 +1,6 @@
-package com.parthsarthiprasad.LogInjectorDyte.config;
+package com.parthsarthiprasad.tradewind.config;
 
-import com.parthsarthiprasad.LogInjectorDyte.model.KafkaMessage;
+import com.parthsarthiprasad.tradewind.model.KafkaMessage;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.beans.factory.annotation.Value;

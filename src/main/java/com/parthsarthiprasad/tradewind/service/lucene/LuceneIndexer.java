@@ -1,7 +1,7 @@
-package com.parthsarthiprasad.LogInjectorDyte.service.lucene;
+package com.parthsarthiprasad.tradewind.service.lucene;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.parthsarthiprasad.LogInjectorDyte.model.LogList;
+import com.parthsarthiprasad.tradewind.model.LogList;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;

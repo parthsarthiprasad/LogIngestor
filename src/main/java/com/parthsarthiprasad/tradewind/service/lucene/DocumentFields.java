@@ -1,4 +1,4 @@
-package com.parthsarthiprasad.LogInjectorDyte.service.lucene;
+package com.parthsarthiprasad.tradewind.service.lucene;
 
 /**
  * Constants for document field names.

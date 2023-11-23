@@ -1,4 +1,4 @@
-package com.parthsarthiprasad.LogInjectorDyte;
+package com.parthsarthiprasad.tradewind;
 
 import org.springframework.boot.SpringApplication;
 //SpringBootApplication

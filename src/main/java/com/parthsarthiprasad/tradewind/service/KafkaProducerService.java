@@ -1,6 +1,6 @@
-package com.parthsarthiprasad.LogInjectorDyte.service;
+package com.parthsarthiprasad.tradewind.service;
 
-import com.parthsarthiprasad.LogInjectorDyte.model.KafkaMessage;
+import com.parthsarthiprasad.tradewind.model.KafkaMessage;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.kafka.core.KafkaTemplate;

@@ -1,9 +1,7 @@
-package com.parthsarthiprasad.LogInjectorDyte.controller;
+package com.parthsarthiprasad.tradewind.controller;
 
-import com.parthsarthiprasad.LogInjectorDyte.model.KafkaMessage;
-import com.parthsarthiprasad.LogInjectorDyte.service.KafkaProducerService;
-import com.parthsarthiprasad.LogInjectorDyte.service.lucene.LuceneIndexer;
-import com.parthsarthiprasad.LogInjectorDyte.service.lucene.LuceneSearcher;
+import com.parthsarthiprasad.tradewind.model.KafkaMessage;
+import com.parthsarthiprasad.tradewind.service.KafkaProducerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

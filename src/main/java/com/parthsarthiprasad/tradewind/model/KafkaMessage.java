@@ -1,4 +1,4 @@
-package com.parthsarthiprasad.LogInjectorDyte.model;
+package com.parthsarthiprasad.tradewind.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

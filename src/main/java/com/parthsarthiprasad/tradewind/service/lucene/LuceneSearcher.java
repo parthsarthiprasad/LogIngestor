@@ -1,7 +1,7 @@
-package com.parthsarthiprasad.LogInjectorDyte.service.lucene;
+package com.parthsarthiprasad.tradewind.service.lucene;
 
-import com.parthsarthiprasad.LogInjectorDyte.model.LogList;
-import com.parthsarthiprasad.LogInjectorDyte.model.Metadata;
+import com.parthsarthiprasad.tradewind.model.LogList;
+import com.parthsarthiprasad.tradewind.model.Metadata;
 import jakarta.enterprise.context.ApplicationScoped;
 import org.apache.lucene.document.DateTools;
 import org.apache.lucene.document.Document;
@@ -17,7 +17,7 @@ import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
-import static com.parthsarthiprasad.LogInjectorDyte.util.DateUtils.toDate;
+import static com.parthsarthiprasad.tradewind.util.DateUtils.toDate;
 //import static com.parthsarthiprasad.example.util.DateUtils.toDate;
 
 
